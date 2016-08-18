@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+// just do something for the test
 public class Main02 {
 	
 	public static int sumNum(int n, int[] nums){
@@ -9,7 +9,7 @@ public class Main02 {
             sum = sum + nums[i];
         }
         return sum;
-    }
+    }//try another modify ,let's go.
     
     public static int proNum(int n, int[] nums){
         int pro = 1;
